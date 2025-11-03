@@ -1,4 +1,4 @@
-# **Senio-Connect**
+# **Senior-Connect**
 
 ### *Rompre l’isolement numérique des seniors*
 
