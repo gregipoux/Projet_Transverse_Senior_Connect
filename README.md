@@ -1,56 +1,53 @@
-# # 💬 Projet Senio-Connect
+# **Senio-Connect**
 
-**Comment rompre l’isolement numérique chez les seniors**
-
----
-
-## 📍 Problématique
-
-**Quoi ?**
-Quel est le problème ? La technologie avance trop vite — les seniors ne sont pas initiés.
-👉 Manque d’interaction sociale → isolement.
-
-**Qui ?**
-Les seniors.
-
-**Où ?**
-En EHPAD, à domicile, etc.
-
-**Quand ?**
-À partir du moment où leurs proches s’en vont.
-
-**Comment ?**
-L’isolement se déclare souvent après la perte ou le départ d’un proche (conjoint, ami, famille).
+### *Rompre l’isolement numérique des seniors*
 
 ---
 
-## ⚙️ Fonctionnalités
+## **Problématique**
 
-Application très **visuelle**, avec **grands logos** et interface simplifiée :
+**Quoi —** La technologie avance trop vite, les seniors ne sont pas initiés.
+Résultat : un manque d’interaction sociale et donc un isolement progressif.
 
-* 📞 Appels vidéo / audio (répertoire)
-* 💬 SMS
-* 📅 Rendez-vous
-* 🎉 Activités / sorties / soirées (calendrier) — *lutter contre la sédentarité*
-* 📖 Historique des appels
-* 🌍 Choix de la langue
+**Qui —** Les seniors.
 
----
+**Où —** En EHPAD, à domicile, ou dans tout autre lieu de vie.
 
-## 🧩 Besoins fonctionnels / non fonctionnels
+**Quand —** À partir du moment où leurs proches s’en vont.
 
-* Définir la **tranche d’âge** à laquelle le besoin apparaît
-* Statistiques : évolution sur **moins de 2 ans**
-* Nombre d’**appels à l’aide**
-* 1 **personne de l’entourage** (jeune)
-* 1 **auxiliaire de vie**
-* 1 **personne concernée (senior)**
-* 🎯 **3 objectifs max** à fixer clairement
+**Comment —** L’isolement se manifeste souvent après la perte ou le départ d’un proche (conjoint, ami, famille).
 
 ---
 
-## 🎙️ Pitch
+## **Fonctionnalités clés**
 
-En quoi cette problématique est-elle **nécessaire** à résoudre ?
-Parce que **l’isolement n’est pas une possibilité — c’est une réalité.**
-Et **nous avons la solution.**
+Interface **simple, lisible et visuelle**, pensée pour l’accessibilité :
+
+*  **Appels vidéo / audio** (répertoire clair et illustré)
+*  **Messages SMS** simplifiés
+*  **Rendez-vous** (notifications adaptées)
+*  **Activités / sorties / soirées** via un calendrier convivial — lutte contre la sédentarité
+*  **Historique des appels** facile à relire
+*  **Choix de la langue** selon le profil
+
+---
+
+## **Besoins fonctionnels & non fonctionnels**
+
+* Identifier la **tranche d’âge** à partir de laquelle le besoin émerge
+* Intégrer des **statistiques évolutives (< 2 ans)**
+* Comptabiliser le **nombre d’appels à l’aide**
+* Inclure :
+
+  *  1 membre de l’entourage (jeune)
+  *  1 auxiliaire de vie
+  *  1 senior concerné
+*  Fixer **3 objectifs maximum**, clairs et mesurables
+
+---
+
+##  **Pitch**
+
+> L’isolement numérique n’est pas une possibilité — c’est une réalité.
+> **Senio-Connect** propose une solution simple, humaine et essentielle
+> pour retisser le lien social à travers la technologie.
