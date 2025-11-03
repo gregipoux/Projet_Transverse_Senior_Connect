@@ -49,5 +49,5 @@ Interface **simple, lisible et visuelle**, pensée pour l’accessibilité :
 ##  **Pitch**
 
 > L’isolement numérique n’est pas une possibilité — c’est une réalité.
-> **Senio-Connect** propose une solution simple, humaine et essentielle
+> **Senior-Connect** propose une solution simple, humaine et essentielle
 > pour retisser le lien social à travers la technologie.
